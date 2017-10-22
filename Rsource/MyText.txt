@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-﻿AAAAAAA
-=======
-﻿BBBBBBBB
->>>>>>> User2
+AAAAAAAAAA
